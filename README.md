@@ -2,8 +2,8 @@
 ![Header](https://raw.githubusercontent.com/Stephany-Doris/Stephany-Doris/main/profile-img.png "Header")
 ### Hi, I'm Stephany! 👋
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Stephany-Doris&layout=compact)
-![Repo Card](https://github-readme-stats.vercel.app/api/?username=Stephany-Doris&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Stephany-Doris&layout=compact&theme=dark)
+![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Stephany-Doris&layout=compact&theme=dark&repo=Weather-app)
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Stephany-Doris&hide=issues,contribs&show_icons=true&theme=dark" />
 
