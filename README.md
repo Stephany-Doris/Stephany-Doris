@@ -1,5 +1,5 @@
 
-![Header](https://raw.githubusercontent.com/Stephany-Doris/Stephany-Doris/main/my-profile.png "Header")
+![Header](https://raw.githubusercontent.com/Stephany-Doris/Stephany-Doris/main/profile-pic.png "Header")
 ### Hi, I'm Stephany! 👋
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Stephany-Doris)](https://github.com/anuraghazra/github-readme-stats)
