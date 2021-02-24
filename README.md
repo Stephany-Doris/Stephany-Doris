@@ -8,7 +8,7 @@
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Stephany-Doris&hide=issues,contribs&show_icons=true&theme=dark" />
 
-## 🔧 Technologies & Tools
+## 🔧 Tools & Technologies
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=React&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Graphql-informational?style=flat&logo=Graphql&logoColor=white&color=2bbc8a)
