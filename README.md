@@ -1,6 +1,6 @@
 
 ![Header](https://raw.githubusercontent.com/Stephany-Doris/Stephany-Doris/main/profile-img.png "Header")
-### Hi, I'm Stephany! 👋
+### Hi, I'm Stephany! 👋 <img src="https://raw.githubusercontent.com/Stephany-Doris/Stephany-Doris/main/wave.gif" width="30px"> 
 
 ##  GitHub Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Stephany-Doris&layout=compact&theme=dark)
