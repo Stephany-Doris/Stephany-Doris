@@ -2,10 +2,18 @@
 ![Header](https://raw.githubusercontent.com/Stephany-Doris/Stephany-Doris/main/profile-img.png "Header")
 ### Hi, I'm Stephany! 👋
 
+##  GitHub Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Stephany-Doris&layout=compact&theme=dark)
 ![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Stephany-Doris&layout=compact&theme=dark&repo=Weather-app)
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Stephany-Doris&hide=issues,contribs&show_icons=true&theme=dark" />
+
+## 🔧 Technologies & Tools
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=React&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=Graphql&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=Ant design&logoColor=white&color=2bbc8a)
+
 
 <!--
 **Stephany-Doris/Stephany-Doris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
