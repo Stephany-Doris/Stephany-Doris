@@ -1,6 +1,5 @@
 
-![Header](https://raw.githubusercontent.com/Stephany-Doris/Stephany-Doris/main/profile.png "Header")
-## Hi, I'm Stephany!
+## Hi, I'm Stephany! <img src="https://raw.githubusercontent.com/Stephany-Doris/Stephany-Doris/main/wave.gif" width="30px"> 
 Am a frontend software engineer from Kenya, currently working at Twiga Foods Ltd.
 I mostly work with ReactJS and GraphQL to provide solutions and find better ways of implementing systems. 
 
@@ -20,7 +19,7 @@ Apart from coding, I enjoy blogging about the different things that I learn and 
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=React&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Graphql-informational?style=flat&logo=Graphql&logoColor=white&color=2bbc8a)
 
-<img src="https://raw.githubusercontent.com/Stephany-Doris/Stephany-Doris/main/wave.gif" width="30px"> 
+![Header](https://raw.githubusercontent.com/Stephany-Doris/Stephany-Doris/main/profile.png "Header")
 
 <!--
 **Stephany-Doris/Stephany-Doris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
