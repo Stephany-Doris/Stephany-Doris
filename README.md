@@ -1,7 +1,7 @@
 
 ![Header](https://raw.githubusercontent.com/Stephany-Doris/Stephany-Doris/main/profile.png "Header")
 ## Hi, I'm Stephany! <img src="https://raw.githubusercontent.com/Stephany-Doris/Stephany-Doris/main/wave.gif" width="30px"> 
-Am a frontend software engineer from Kenya, currently working at Twiga Foods Ltd. 
+Am a frontend software engineer from Kenya, currently working at Twiga Foods Ltd.
 I mostly work with ReactJS and GraphQL to provide solutions that are tailored at improving user experience. 
 
 I have a passion for learning and am always looking forward to a challenge. I aim to provide solutions to problems, improve performance, and always have the user in mind. My areas of interest include, serverless technologies, design systems and user centered design.
