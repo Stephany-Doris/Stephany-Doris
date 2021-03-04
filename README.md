@@ -7,7 +7,7 @@ I mostly work with ReactJS and GraphQL to provide solutions that are tailored at
 I have a passion for learning and am always looking forward to a challenge. I aim to provide solutions to problems, improve performance, and always have the user in mind. My areas of interest include, serverless technologies, design systems and user centered design.
 
 ## &#x270d; Blog & Writing
-Apart from coding, I enjoy blogging about the different things that I learn and tell the story from my point of view. You can find my articles at [Medium](https://steph-ny.medium.com/) 
+Apart from coding, I enjoy blogging about the different things that I learn and tell the story from my point of view. You can find my articles at [Medium](https://medium.com/@steph-ny) 
 
 ##  GitHub Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Stephany-Doris&layout=compact&theme=dark)
