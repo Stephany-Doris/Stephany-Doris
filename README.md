@@ -19,7 +19,8 @@ Apart from coding, I enjoy blogging about the different things that I learn and 
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=React&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Graphql-informational?style=flat&logo=Graphql&logoColor=white&color=2bbc8a)
 
-![Header](https://raw.githubusercontent.com/Stephany-Doris/Stephany-Doris/main/profile.png "Header")
+<!--
+**![Header](https://raw.githubusercontent.com/Stephany-Doris/Stephany-Doris/main/profile.png "Header")
 
 <!--
 **Stephany-Doris/Stephany-Doris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
