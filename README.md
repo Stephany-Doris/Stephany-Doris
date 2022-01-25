@@ -1,12 +1,9 @@
 
 ## Hi, I'm Stephany! <img src="https://raw.githubusercontent.com/Stephany-Doris/Stephany-Doris/main/wave.gif" width="30px"> 
-Am a frontend software engineer from Kenya, currently working at Twiga Foods Ltd.
-I mostly work with ReactJS and GraphQL to provide solutions and find better ways of implementing systems. 
+Am a Software engineer from Kenya, currently working at Twiga Foods Ltd.
+I mostly work with JavaScript(particularly ReactJS & NodeJS) to provide solutions and find better ways of implementing systems. 
 
-I have a passion for learning and am always looking forward to a challenge. My areas of interest include, serverless technologies, design systems and user centered design.
-
-## &#x270d; Blog & Writing
-Apart from coding, I enjoy blogging about the different things that I learn and tell the story from my point of view. You can find my articles at [Medium](https://medium.com/@steph-ny) 
+I have a passion for learning and am always looking forward to a challenge. Some of the areas am currently exploring include; serverless technologies, design systems and user centered design.
 
 ##  GitHub Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Stephany-Doris&layout=compact&theme=dark)
