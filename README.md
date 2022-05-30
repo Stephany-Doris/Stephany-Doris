@@ -3,7 +3,7 @@
 Am a Software engineer from Kenya, currently working at Twiga Foods Ltd.
 I mostly work with JavaScript(particularly ReactJS & NodeJS) to provide solutions and find better ways of implementing systems. 
 
-I have a passion for learning and am always looking forward to a challenge. Some of the areas am currently exploring include; serverless technologies, design systems and user centered design.
+Some of the areas am currently exploring include; serverless technologies, design systems and user centered design.
 
 ##  GitHub Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Stephany-Doris&layout=compact&theme=dark)
