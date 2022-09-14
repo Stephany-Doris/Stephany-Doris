@@ -5,10 +5,6 @@ I mostly work with JavaScript(particularly ReactJS & NodeJS) to provide solution
 
 Some of the areas am currently exploring include; serverless technologies, design systems and user centered design.
 
-##  GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Stephany-Doris&layout=compact&theme=dark)
-![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Stephany-Doris&layout=compact&theme=dark&repo=Weather-app)
-
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Stephany-Doris&hide=issues,contribs&show_icons=true&theme=dark" />
 
 ## 🔧 Tools & Technologies
