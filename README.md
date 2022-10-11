@@ -2,11 +2,13 @@
 ## Hi, I'm Stephany! <img src="https://raw.githubusercontent.com/Stephany-Doris/Stephany-Doris/main/wave.gif" width="30px"> 
 Am a Software engineer from Kenya, currently working at Twiga Foods Ltd.
 I mostly work with JavaScript frameworks(particularly ReactJS & NodeJS) to build solutions and improve existing systems. 
-Am also well vast in computer science principals and fundamentals. I have a passion for tooling and system architecture and design.
+Am also well vast in computer science principals and fundamentals. 
 
-🔭 I’m currently exploring; graphql gateways, serverless technologies and the inner workings of modern browsers, particularly Google Chrome.
+⚡ I have a passion for tooling and system architecture and design.
 
-👯 I’m looking to collaborate on projects that are centered around solving real world problems or innovative problems i.e building a solution that does not exist or is not yet widely adopted in the industry yet.
+🔭 I’m currently exploring: graphql gateways, serverless technologies and the inner workings of modern browsers, particularly Google Chrome.
+
+👯 I’m looking to collaborate on projects that are centered around solving real world problems or innovative solutions i.e building a solution that does not exist or is not yet widely adopted in the target market.
 
 📫 How to reach me: You can reach me on LinkedIn or via email.
 
